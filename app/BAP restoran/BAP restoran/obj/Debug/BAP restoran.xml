@@ -1,0 +1,261 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BAP restoran
+</name>
+</assembly>
+<members>
+<member name="T:BAP_restoran.db_restoranDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSet.tb_mejaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSet.tb_menuDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSet.tb_transaksiDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSet.tb_userDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSet.tb_mejaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSet.tb_menuRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSet.tb_transaksiRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSet.tb_userRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSet.tb_mejaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSet.tb_menuRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSet.tb_transaksiRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSet.tb_userRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSetTableAdapters.tb_mejaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSetTableAdapters.tb_menuTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSetTableAdapters.tb_transaksiTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSetTableAdapters.tb_userTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:BAP_restoran.db_restoranDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(BAP_restoran.db_restoranDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:BAP_restoran.db_restoranDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(BAP_restoran.db_restoranDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:BAP_restoran.db_restoranDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(BAP_restoran.db_restoranDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:BAP_restoran.db_restoranDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:BAP_restoran.db_restoranDataSetTableAdapters.TableAdapterManager.UpdateAll(BAP_restoran.db_restoranDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:BAP_restoran.db_restoranDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:BAP_restoran.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources._6_restoran_dengan_pelayanan_unik_di_berbagai_belahan_dunia">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.add_friend">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.back">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.bacon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.bread">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.cash_machine">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.dining_room">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.invoice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.logo_golden_chef_10_x_2_5cm">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.menu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.menu__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.menu__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.restoran">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.room_service__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.room_service__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.table">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.Untitled">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.Untitled1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.uoGroup2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.user_list">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.user_list__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BAP_restoran.My.Resources.Resources.user_list__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

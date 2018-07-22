@@ -1,0 +1,120 @@
+E:\Documents\BAP\BAP restoran\BAP restoran\bin\Debug\BAP restoran.exe.config
+E:\Documents\BAP\BAP restoran\BAP restoran\bin\Debug\BAP restoran.exe
+E:\Documents\BAP\BAP restoran\BAP restoran\bin\Debug\BAP restoran.pdb
+E:\Documents\BAP\BAP restoran\BAP restoran\bin\Debug\BAP restoran.xml
+E:\Documents\BAP\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.Form1.resources
+E:\Documents\BAP\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.Resources.resources
+E:\Documents\BAP\BAP restoran\BAP restoran\obj\Debug\BAP restoran.vbproj.GenerateResource.Cache
+E:\Documents\BAP\BAP restoran\BAP restoran\obj\Debug\BAP restoran.exe
+E:\Documents\BAP\BAP restoran\BAP restoran\obj\Debug\BAP restoran.xml
+E:\Documents\BAP\BAP restoran\BAP restoran\obj\Debug\BAP restoran.pdb
+E:\Documents\BAP\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.meja.resources
+E:\Documents\BAP\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.menu.resources
+E:\Documents\BAP\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.utama.resources
+E:\Documents\BAP\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.daftar.resources
+E:\Documents\BAP\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.transaksi.resources
+E:\Documents\BAP\BAP restoran\BAP restoran\obj\Debug\BAP restoran.vbprojResolveAssemblyReference.cache
+F:\belajar\BAP restoran\BAP restoran\bin\Debug\BAP restoran.exe.config
+F:\belajar\BAP restoran\BAP restoran\obj\Debug\BAP restoran.exe
+F:\belajar\BAP restoran\BAP restoran\obj\Debug\BAP restoran.xml
+F:\belajar\BAP restoran\BAP restoran\obj\Debug\BAP restoran.pdb
+F:\belajar\BAP restoran\BAP restoran\bin\Debug\BAP restoran.exe
+F:\belajar\BAP restoran\BAP restoran\bin\Debug\BAP restoran.pdb
+F:\belajar\BAP restoran\BAP restoran\bin\Debug\BAP restoran.xml
+F:\belajar\BAP restoran\BAP restoran\obj\Debug\BAP restoran.vbprojResolveAssemblyReference.cache
+F:\belajar\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.daftar.resources
+F:\belajar\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.Form1.resources
+F:\belajar\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.meja.resources
+F:\belajar\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.menu.resources
+F:\belajar\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.Resources.resources
+F:\belajar\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.transaksi.resources
+F:\belajar\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.utama.resources
+F:\belajar\BAP restoran\BAP restoran\obj\Debug\BAP restoran.vbproj.GenerateResource.Cache
+D:\muhammad ramdan\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.exe.config
+D:\muhammad ramdan\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.exe
+D:\muhammad ramdan\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.xml
+D:\muhammad ramdan\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.pdb
+D:\muhammad ramdan\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.exe
+D:\muhammad ramdan\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.pdb
+D:\muhammad ramdan\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.xml
+D:\muhammad ramdan\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.vbprojResolveAssemblyReference.cache
+D:\muhammad ramdan\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.daftar.resources
+D:\muhammad ramdan\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.Form1.resources
+D:\muhammad ramdan\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.meja.resources
+D:\muhammad ramdan\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.menu.resources
+D:\muhammad ramdan\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.Resources.resources
+D:\muhammad ramdan\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.transaksi.resources
+D:\muhammad ramdan\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.utama.resources
+D:\muhammad ramdan\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.vbproj.GenerateResource.Cache
+F:\belajar\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.exe.config
+F:\belajar\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.exe
+F:\belajar\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.xml
+F:\belajar\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.pdb
+F:\belajar\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.exe
+F:\belajar\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.pdb
+F:\belajar\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.xml
+F:\belajar\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.vbprojResolveAssemblyReference.cache
+F:\belajar\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.daftar.resources
+F:\belajar\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.Form1.resources
+F:\belajar\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.meja.resources
+F:\belajar\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.menu.resources
+F:\belajar\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.Resources.resources
+F:\belajar\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.transaksi.resources
+F:\belajar\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.utama.resources
+F:\belajar\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.vbproj.GenerateResource.Cache
+F:\belajar\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.pembayaran.resources
+D:\muhammad ramdan\paling baru bap\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.exe.config
+D:\muhammad ramdan\paling baru bap\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.exe
+D:\muhammad ramdan\paling baru bap\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.xml
+D:\muhammad ramdan\paling baru bap\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.pdb
+D:\muhammad ramdan\paling baru bap\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.exe
+D:\muhammad ramdan\paling baru bap\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.pdb
+D:\muhammad ramdan\paling baru bap\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.xml
+D:\muhammad ramdan\paling baru bap\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.vbprojResolveAssemblyReference.cache
+D:\muhammad ramdan\paling baru bap\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.daftar.resources
+D:\muhammad ramdan\paling baru bap\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.Form1.resources
+D:\muhammad ramdan\paling baru bap\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.meja.resources
+D:\muhammad ramdan\paling baru bap\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.menu.resources
+D:\muhammad ramdan\paling baru bap\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.Resources.resources
+D:\muhammad ramdan\paling baru bap\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.transaksi.resources
+D:\muhammad ramdan\paling baru bap\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.utama.resources
+D:\muhammad ramdan\paling baru bap\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.vbproj.GenerateResource.Cache
+D:\muhammad ramdan\paling baru bap\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.laporan.resources
+C:\Users\Lola Anjal Savira\Documents\Visual Studio 2013\zdn nitip\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.exe.config
+C:\Users\Lola Anjal Savira\Documents\Visual Studio 2013\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.exe
+C:\Users\Lola Anjal Savira\Documents\Visual Studio 2013\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.xml
+C:\Users\Lola Anjal Savira\Documents\Visual Studio 2013\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.pdb
+C:\Users\Lola Anjal Savira\Documents\Visual Studio 2013\zdn nitip\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.exe
+C:\Users\Lola Anjal Savira\Documents\Visual Studio 2013\zdn nitip\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.pdb
+C:\Users\Lola Anjal Savira\Documents\Visual Studio 2013\zdn nitip\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.xml
+C:\Users\Lola Anjal Savira\Documents\Visual Studio 2013\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.vbprojResolveAssemblyReference.cache
+C:\Users\Lola Anjal Savira\Documents\Visual Studio 2013\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.daftar.resources
+C:\Users\Lola Anjal Savira\Documents\Visual Studio 2013\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.Form1.resources
+C:\Users\Lola Anjal Savira\Documents\Visual Studio 2013\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.laporan.resources
+C:\Users\Lola Anjal Savira\Documents\Visual Studio 2013\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.meja.resources
+C:\Users\Lola Anjal Savira\Documents\Visual Studio 2013\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.menu.resources
+C:\Users\Lola Anjal Savira\Documents\Visual Studio 2013\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.Resources.resources
+C:\Users\Lola Anjal Savira\Documents\Visual Studio 2013\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.transaksi.resources
+C:\Users\Lola Anjal Savira\Documents\Visual Studio 2013\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.utama.resources
+C:\Users\Lola Anjal Savira\Documents\Visual Studio 2013\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.vbproj.GenerateResource.Cache
+D:\muhammad ramdan\paling baru bap\zdn nitip\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.exe.config
+D:\muhammad ramdan\paling baru bap\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.exe
+D:\muhammad ramdan\paling baru bap\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.xml
+D:\muhammad ramdan\paling baru bap\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.pdb
+D:\muhammad ramdan\paling baru bap\zdn nitip\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.exe
+D:\muhammad ramdan\paling baru bap\zdn nitip\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.pdb
+D:\muhammad ramdan\paling baru bap\zdn nitip\paling baru bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.xml
+D:\muhammad ramdan\paling baru bap\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.vbprojResolveAssemblyReference.cache
+D:\muhammad ramdan\paling baru bap\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.daftar.resources
+D:\muhammad ramdan\paling baru bap\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.Form1.resources
+D:\muhammad ramdan\paling baru bap\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.laporan.resources
+D:\muhammad ramdan\paling baru bap\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.meja.resources
+D:\muhammad ramdan\paling baru bap\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.menu.resources
+D:\muhammad ramdan\paling baru bap\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.Resources.resources
+D:\muhammad ramdan\paling baru bap\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.transaksi.resources
+D:\muhammad ramdan\paling baru bap\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP_restoran.utama.resources
+D:\muhammad ramdan\paling baru bap\zdn nitip\paling baru bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.vbproj.GenerateResource.Cache
+D:\muhammad ramdan\selesai bap\BAP restoran\BAP restoran\bin\Debug\BAP restoran.exe.config
+D:\muhammad ramdan\selesai bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.exe
+D:\muhammad ramdan\selesai bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.xml
+D:\muhammad ramdan\selesai bap\BAP restoran\BAP restoran\obj\Debug\BAP restoran.pdb
